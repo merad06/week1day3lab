@@ -1,0 +1,10 @@
+1. mkdir death-star
+   cd death-star
+   touch darth_vader.txt princess_leia.txt storm_trooper.txt
+2. cd ..
+   mkdir tatooine
+   cd tatooine
+   touch luke.txt ben_kenobi.txt
+3  mkdir millenium_falcon
+   cd millenium_falcon
+   touch han_solo.txt chewbaca.txt
