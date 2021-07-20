@@ -8,3 +8,30 @@
 3  mkdir millenium_falcon
    cd millenium_falcon
    touch han_solo.txt chewbaca.txt
+4. mv ben_kenobi.txt obi_wan.txt
+5. cp storm_trooper.txt ~/Desktop/git-github-and-terminal/galaxy-far-far-away/tatooine/
+6.  mv luke.txt obi_wan.txt  ~/Desktop/git-github-and-terminal/galaxy-far-far-away/tatooine/millenium_falcon/
+7. mv millenium_falcon/ ~/Desktop/git-github-and-terminal/galaxy-far-far-away/
+8. cd ..
+   mv millenium_falcon/ death_star/
+   cd death_star/
+9.  mv princess_leia.txt millenium_falcon/
+10. cd millenium_falcon/
+    rm obi_wan.txt
+11. mkdir yavin_4
+12. mv millenium_falcon/ ~/Desktop/git-github-and-terminal/galaxy-far-far-away/yavin_4/
+13. cd yavin_4/
+    mkdir x_wing
+14.  mv princess_leia.txt ~/Desktop/git-github-and-terminal/galaxy-far-far-away/yavin_4/
+     mv ~/Desktop/git-github-and-terminal/galaxy-far-far-away/yavin_4/millenium_falcon/luke.txt x_wing/
+15.  mv millenium_falcon/ x_wing/ ~/Desktop/git-github-and-terminal/galaxy-far-far-away/
+16.  mkdir tie_fighter_1 tie_fighter_2 tie_fighter_3
+17. mv darth_vader.txt tie_fighter_
+18. cp storm_trooper.txt tie_fighter_2
+    cp storm_trooper.txt tie_fighter_3
+19. $ mv tie_fighter_* ~/Desktop/git-github-and-terminal/galaxy-far-far-away/
+20. rm -r tie_fighter_2 tie_fighter_3
+21. touch the_force.txt
+22. rm -r death_star/
+23. mv x_wing/ yavin_4/
+    mv millenium_falcon/ yavin_4/
